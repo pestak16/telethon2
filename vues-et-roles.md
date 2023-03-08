@@ -12,7 +12,7 @@
 - Partenaires - Ajouter
 - Partenaires - Edit
 
-#Jonathan 2
+# Jonathan 2
 - Stands - Main
 - Stands - Ajouter
 - Stands - Edit
@@ -25,23 +25,22 @@
 # Pierre
 - Profile - (modifier)
 - Profile - (Change Password)
-
 - Header / Footer
 
 
 # A faire
 
-Wordpress
-Bootstrap Custom
-Ftp - BDD
-Maquettes
-Trello
+- Wordpress
+- Bootstrap Custom
+- Ftp - BDD
+- Maquettes
+- Trello
 
 
 # Ressources
 
-Bootstrap 
-FontAwesome
+- Bootstrap 
+- FontAwesome
 
 
 

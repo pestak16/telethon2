@@ -1,15 +1,5 @@
 
-
-
-body{
-
-}
-
 .topcompteur{
-    top:0px;
-    right:0px;
-    width:200px;
-    height:64px;
     border-radius: 10px;
 }
 
@@ -21,6 +11,7 @@ header h1{
 
 main h2{
     font-family: 'PT Serif', serif;
+    color:  var(--mo-primary);
 }
 
 nav ul{
@@ -39,9 +30,14 @@ nav li>a{
 }
 
 nav li>a:hover{
-    background-color:white;
-    color:red;
+    background-color:var(--mo-secondary);
 }
+
+li>a.active{
+    background-color:var(--mo-secondary);
+    font-weight: bold;
+}
+
 
 /** footer */
 footer ul{

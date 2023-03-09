@@ -10,8 +10,13 @@ $primary: #038591;
 $secondary:#025C64;
 $info: #EECB5E;
 
-$enable-shadows: true;
+//$enable-shadows: true;
 $prefix: "mo-";
 
 // Then import Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+
+// Les fonts du client/telethon
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=PT+Serif:wght@700&display=swap');
+

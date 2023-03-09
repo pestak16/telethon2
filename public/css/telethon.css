@@ -1,0 +1,59 @@
+
+
+
+body{
+
+}
+
+.topcompteur{
+    top:0px;
+    right:0px;
+    width:200px;
+    height:64px;
+    border-radius: 10px;
+}
+
+
+/** header */
+header h1{
+    font-family: 'PT Serif', serif;
+}
+
+main h2{
+    font-family: 'PT Serif', serif;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display:inline-block;
+}
+
+nav li>a{
+    text-decoration: none;
+    display: block;
+    padding:1rem;
+    color:white;
+}
+
+nav li>a:hover{
+    background-color:white;
+    color:red;
+}
+
+/** footer */
+footer ul{
+    list-style-type: none;
+}
+
+footer li{
+    display:inline-block;
+}
+
+footer a{
+    padding:2rem;
+    color:white;
+    display:block;
+}

@@ -24,14 +24,14 @@
     <div class="bg-primary">
         <nav class="container">
             <ul>
-                <li><a href="collectes.php" class="active">Collectes</a></li>
-                <li><a href="partenaires.php">Partenaires</a></li>
-                <li><a href="stands.php">Stands</a></li>
-                <li><a href="utilisateurs.php">Utilisateurs</a></li>
+                <li><a href="collect_main.php" class="active">Collectes</a></li>
+                <li><a href="partners_main.php">Partenaires</a></li>
+                <li><a href="stands_main.php">Stands</a></li>
+                <li><a href="users_main.php">Utilisateurs</a></li>
                 
                 <li class="float-end"><a href="#"><i class="fa-solid fa-sign-out"></i></a></li>
-                <li class="float-end"><a href="profile.php"><i class="fa-solid fa-circle-user"></i></a></li>
-                <li class="float-end"><a href="profile.php">Pierre</a></li>
+                <li class="float-end"><a href="profile_edit.php"><i class="fa-solid fa-circle-user"></i></a></li>
+                <li class="float-end"><a href="profile_edit.php">{username}</a></li>
             </ul>
         </nav>
     </div>

@@ -1,0 +1,31 @@
+{
+  "name": "telethon2",
+  "version": "1.0.0",
+  "description": "CDA2023 Telethon pages",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss/style.scss:public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pestak16/telethon2.git"
+  },
+  "keywords": [
+    "cool",
+    "sex",
+    "mp3"
+  ],
+  "author": "cda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pestak16/telethon2/issues"
+  },
+  "homepage": "https://github.com/pestak16/telethon2#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}

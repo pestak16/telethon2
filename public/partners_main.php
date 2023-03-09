@@ -17,7 +17,7 @@ require_once("header.php");
                     <th class="col-3 align-items-center">Auchan</th>
                     <td class="col-7">https://www.auchan.fr</td>
                     <td class="col-2 text-end">
-                        <a class="btn btn-success" href="partners_update.php"><i class="fa-solid fa-pencil"></i></a>
+                        <a class="btn btn-success" href="partners_edit.php"><i class="fa-solid fa-pencil"></i></a>
                         <a class="btn text-danger" href="#"><i class="fa-solid fa-x"></i></a>
                     </td>
                 </tr>
@@ -25,7 +25,7 @@ require_once("header.php");
                     <th class="col-3">Naruto</th>
                     <td class="col-7">https://www.naruto.fr</td>
                     <td class="col-2 text-end">
-                        <a class="btn btn-success" href="partners_update.php"><i class="fa-solid fa-pencil"></i></a>
+                        <a class="btn btn-success" href="partners_edit.php"><i class="fa-solid fa-pencil"></i></a>
                         <a class="btn text-danger" href="#"><i class="fa-solid fa-x"></i></a>
                     </td>
                 </tr>
@@ -33,7 +33,7 @@ require_once("header.php");
                     <th class="col-3">Club de tenis</th>
                     <td class="col-7">https://www.fftenis.fr</td>
                     <td class="col-2 text-end">
-                        <a class="btn btn-success" href="partners_update.php"><i class="fa-solid fa-pencil"></i></a>
+                        <a class="btn btn-success" href="partners_edit.php"><i class="fa-solid fa-pencil"></i></a>
                         <a class="btn text-danger" href="#"><i class="fa-solid fa-x"></i></a>
                     </td>
                 </tr>
@@ -41,7 +41,7 @@ require_once("header.php");
                     <th class="col-3">Sex shop 2000</th>
                     <td class="col-7">https://www.ffpenis.fr</td>
                     <td class="col-2 text-end">
-                        <a class="btn btn-success" href="partners_update.php"><i class="fa-solid fa-pencil"></i></a>
+                        <a class="btn btn-success" href="partners_edit.php"><i class="fa-solid fa-pencil"></i></a>
                         <a class="btn text-danger" href="#"><i class="fa-solid fa-x"></i></a>
                     </td>
                 </tr>
@@ -49,7 +49,7 @@ require_once("header.php");
                     <th class="col-3">Decathlon</th>
                     <td class="col-7">https://www.decathlon.fr</td>
                     <td class="col-2 text-end">
-                        <a class="btn btn-success" href="partners_update.php"><i class="fa-solid fa-pencil"></i></a>
+                        <a class="btn btn-success" href="partners_edit.php"><i class="fa-solid fa-pencil"></i></a>
                         <a class="btn text-danger" href="#"><i class="fa-solid fa-x"></i></a>
                     </td>
                 </tr>
@@ -57,7 +57,7 @@ require_once("header.php");
                     <th class="col-3">Carrefour</th>
                     <td class="col-7">https://www.carrefour.fr</td>
                     <td class="col-2 text-end">
-                        <a class="btn btn-success" href="partners_update.php"><i class="fa-solid fa-pencil"></i></a>
+                        <a class="btn btn-success" href="partners_edit.php"><i class="fa-solid fa-pencil"></i></a>
                         <a class="btn text-danger" href="#"><i class="fa-solid fa-x"></i></a>
                     </td>
                 </tr>

@@ -11,17 +11,6 @@
 <body>
     <div class="container">
 <?php
-//test font and colors 
-/*
-$dark:#2B1C1A;
-$light: #F0F0F0;
-$success:#8CD50A;
-$danger: #FC6303;
-$primary: #038591;
-$secondary:#025C64;
-$info: #EECB5E;
-*/
-
 $colors=['dark','light','success','danger','primary','secondary','info'];
 print_r($colors);
 
@@ -30,9 +19,6 @@ foreach($colors as $color){
   echo '<a href=# class="btn btn-'.$color.'">'.$color.'</a> ';
 }
 echo '<hr />';
-
-
-
 
 
 $icons=[];

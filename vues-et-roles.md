@@ -1,6 +1,5 @@
 # Jordan
-- Connexion
-
+- Page Connexion
 
 # Jeremy
 - Collectes - principale
@@ -27,18 +26,17 @@
 - Profile - (Change Password)
 - Header / Footer
 
+# Fait
+- Wordpress - https://telethon2.lesacteursduweb.fr/
+- Ftp - BDD
+- Maquettes 
+- Trello
 
 # A faire
-
-- Wordpress
 - Bootstrap Custom
-- Ftp - BDD
-- Maquettes
-- Trello
 
 
 # Ressources
-
 - Bootstrap 
 - FontAwesome
 

@@ -13,6 +13,20 @@ $info: #EECB5E;
 //$enable-shadows: true;
 $prefix: "mo-";
 
+// Formulaires
+$input-border-radius:0;
+$input-border-radius-sm:0;
+$input-border-radius-lg:0;
+$input-border-color:$dark;
+
+$form-label-font-weight:bold; 
+
+$form-text-font-weight:bold;
+$form-text-color: $dark;
+
+$form-file-button-color:#fff;
+$form-file-button-bg:$primary;
+
 // Then import Bootstrap
 @import "../node_modules/bootstrap/scss/bootstrap";
 

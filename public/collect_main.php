@@ -2,7 +2,8 @@
 require_once("head.php");
 require_once("header.php");
 ?>
-<div class="d-flex container-md text-primary py-4 collectes ">
+<main>
+<div class="container-md my-4 collectes ">
 
     <div class=" titre">
         <h2><i class=" fa-solid fa-hand-holding-dollar "></i> Collectes</h2>
@@ -84,9 +85,9 @@ require_once("header.php");
 
     </table>
 </div>
+</main>
 
 
-</body>
 
 <?php
 require_once("footer.php");

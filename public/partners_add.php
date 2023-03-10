@@ -5,9 +5,7 @@ require_once("header.php");
 
 <main class="container">
     <div class="container-md mb-5">
-        <div class="row text-primary my-4">
-            <h2><i class="fa-solid fa-handshake-angle"></i> Ajouter un partenaire</h2>
-        </div>
+        <h2><i class="fa-solid fa-handshake-angle"></i> Ajouter un partenaire</h2>
         <form action="" class="bg-light p-3 mb-3" method="post">
             <div class="mb-2">
                 <label for="partners" class="form-label">Nom du partenaire</label>

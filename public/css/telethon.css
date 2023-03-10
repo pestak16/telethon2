@@ -11,9 +11,17 @@ header h1{
     font-family: 'PT Serif', serif;
 }
 
+main{
+    min-height: 400px;
+}
+
 main h2{
     font-family: 'PT Serif', serif;
     color:  var(--mo-primary);
+}
+
+main h3{
+    font-family: 'PT Serif', serif;
 }
 
 nav ul{

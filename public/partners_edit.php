@@ -3,7 +3,7 @@ require_once("head.php");
 require_once("header.php");
 ?>
 
-<main>
+<main class="container">
     <div class="container-md mb-5">
         <div class="row text-primary my-4">
             <h2><i class="fa-solid fa-handshake-angle"></i> Modifier un partenaire</h2>
@@ -37,8 +37,8 @@ require_once("header.php");
             </div>
             <div class="row">
                 <div class="col text-end">
-                    <button class="btn btn-success mb-2" type="submit">Ajouter</button>
-                    <a class="btn btn-danger mb-2" href="partners_main.php">Annuler</a>
+                    <button class="btn btn-success mb-2 px-md-5" type="submit">Ajouter</button>
+                    <a class="btn btn-danger mb-2 px-md-5" href="partners_main.php">Annuler</a>
                 </div>
             </div>
         </form>

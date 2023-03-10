@@ -5,9 +5,7 @@ require_once("header.php");
 
 <main class="container">
     <div class="container-md mb-5">
-        <div class="row text-primary my-4">
-            <h2><i class="fa-solid fa-handshake-angle"></i> Modifier un partenaire</h2>
-        </div>
+        <h2><i class="fa-solid fa-handshake-angle"></i> Modifier un partenaire</h2>
         <div class="row">
             <div class="col-sm-6 col-md-4">
                 <img src="img/logo-auchan.png" class="img-fluid" alt="Logo Auchan">

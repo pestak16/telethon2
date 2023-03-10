@@ -5,9 +5,7 @@ require_once("header.php");
 
 <main class="container">
     <div class="container-md mb-5">
-        <div class="row text-primary my-4">
-            <h2><i class="fa-solid fa-handshake-angle"></i> Partenaires</h2>
-        </div>
+        <h2><i class="fa-solid fa-handshake-angle"></i> Partenaires</h2>
         <div class="row">
             <div class="col"><a class="btn btn-success mb-2 px-md-5" href="partners_add.php">Ajouter</a></div>
         </div>

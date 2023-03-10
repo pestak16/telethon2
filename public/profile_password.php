@@ -8,25 +8,24 @@ require_once("header.php");
     
     <div class="row">
         <div class="col-12">
-            <h2><i class="fa-solid fa-key"></i> Mot de passe</h2>
+            <h2><i class="fa-solid fa-key"></i> Nouveau mot de passe</h2>
         </div>
 
         <div class="col-6">            
             <form>
+                
+              <div class="mb-3">
+                  <label for="password1" class="form-label">Nouveau mot de passe</label>
+                  <input type="password" class="form-control" id="password1" placeholder="mot de passe" required>
+                  <div id="emailHelp" class="form-text"><i class="text-muted">Au moins 12 chiffres, 3 majuscules, et 9 symboles grecs</i></div>
+                </div>
+            
                 <div class="mb-3">
-                  <label for="exampleInputEmail1" class="form-label">Email address</label>
-                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                  <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                  <label for="password2" class="form-label">R&eacute;p&eacute;ter le mot de passe</label>
+                  <input type="password" class="form-control" id="password2" placeholder="mot de passe" required>
                 </div>
-                <div class="mb-3">
-                  <label for="exampleInputPassword1" class="form-label">Password</label>
-                  <input type="password" class="form-control" id="exampleInputPassword1">
-                </div>
-                <div class="mb-3 form-check">
-                  <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                  <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                </div>
-                <button type="submit" class="btn btn-primary">Changer le mot de passe</button>
+                
+                <button type="submit" class="btn btn-success">Changer le mot de passe</button>
                 <button type="button" class="btn btn-light">Annuler</button>
               </form>
 

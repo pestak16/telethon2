@@ -26,7 +26,7 @@ require_once("header.php");
             </div>
             <div class="d-flex justify-content-center">
                 <a class="btn btn-success mx-2" href="">Ajouter</a>
-                <a class="btn btn-danger" href="">Annuler</a>
+                <a class="btn btn-danger" href="users_main.php">Annuler</a>
             </div>
         </div>
 

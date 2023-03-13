@@ -7,7 +7,7 @@ require_once("header.php");
         <div class="container-md">
             <h2>Utilisateurs</h2>
             <div>
-              <a class="btn btn-success" href="">Ajouter</a>
+              <a class="btn btn-success" href="users_add.php">Ajouter</a>
             </div>
             <br>
             
@@ -16,7 +16,7 @@ require_once("header.php");
                     <th>David</th>
                     <td>david.afpa@somewhere.com</td>
                     <td>Admin</td>
-                    <td class="text-end"><a class="btn btn-success" href=""><i class="fa-solid fa-pencil"></i></a></td>
+                    <td class="text-end"><a class="btn btn-success" href="users_edit.php"><i class="fa-solid fa-pencil"></i></a></td>
                     <td class="text-start"><a class="btn" href=""><i class="fa-solid fa-xmark"></i></td>
                   </tr>
                   <tr>

@@ -5,6 +5,11 @@
     font-size: 4rem;
 }
 
+body{
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+}
 
 /** header */
 header h1{
@@ -12,7 +17,8 @@ header h1{
 }
 
 main{
-    min-height: 400px;
+    /* min-height: 400px; */
+    flex-grow: 1;
 }
 
 main h2{
